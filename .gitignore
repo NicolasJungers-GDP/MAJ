@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+#ASSETS PACK
+Content/StarterContent
+Content/StarterBundle
+Content/Geometry
+Content/Collections
+Content/Developers
+content/ParagonMinions
+Content/ParagonKhaimera
+Content/FirstPerson
